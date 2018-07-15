@@ -1,2 +1,2 @@
-# TinyWebSer-ver
+# TinyWebServer
 Tiny web server from CSAPP
